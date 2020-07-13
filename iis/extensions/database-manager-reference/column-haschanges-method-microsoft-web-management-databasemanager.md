@@ -2,7 +2,7 @@
 title: Column.HasChanges Method  (Microsoft.Web.Management.DatabaseManager)
 TOCTitle: HasChanges Method
 ms:assetid: M:Microsoft.Web.Management.DatabaseManager.Column.HasChanges(Microsoft.Web.Management.DatabaseManager.ColumnChanges)
-ms:mtpsurl: https://msdn.microsoft.com/library/microsoft.web.management.databasemanager.column.haschanges(v=VS.90)
+ms:mtpsurl: /iis/extensions/database-manager-reference/column-haschanges-method-microsoft-web-management-databasemanager(v=VS.90)
 ms:contentKeyID: 20476655
 ms.date: 05/02/2012
 mtps_version: v=VS.90
@@ -1260,7 +1260,7 @@ private void AddForeignKeys(
 
 ## Permissions
 
-  - Full trust for the immediate caller. This member cannot be used by partially trusted code. For more information, see [Using Libraries from Partially Trusted Code](https://msdn.microsoft.com/library/8skskf63).
+  - Full trust for the immediate caller. This member cannot be used by partially trusted code. For more information, see [Using Libraries from Partially Trusted Code](/dotnet/framework/misc/using-libraries-from-partially-trusted-code).
 
 ## See Also
 
